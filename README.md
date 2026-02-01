@@ -1,6 +1,6 @@
 # firebase_songs
 
-A new Flutter project.
+The project is meant to show usage of firebase for saving data
 
 ## Getting Started
 
